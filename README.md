@@ -25,7 +25,7 @@ Once finished, start Core Wallet of choice, you can copy the ~/p2pool-oneclick/S
 		**Edit the file with**
 		
 		
-usage: 
+**usage:**
 
 		run_p2pool.py [-h] [--version]
 		[--net {bitcoin,fastcoin,litecoin,terracoin}] [--testnet]
@@ -44,7 +44,7 @@ usage:
 		[--bitcoind-p2p-port BITCOIND_P2P_PORT]
 		[BITCOIND_RPCUSERPASS [BITCOIND_RPCUSERPASS ...]]
 
-optional arguments:
+**optional arguments:**
 
 		-h, --help show this help message and exit
 		--version show program's version number and exit
@@ -74,7 +74,7 @@ optional arguments:
 		node, along with multiple -n ADDR's and --outgoing-
 		conns 0
 
-p2pool interface:
+**p2pool interface:**
 
 		--p2pool-port PORT use port PORT to listen for connections (forward this
 		port from your router!) (default: bitcoin:9333,
@@ -87,7 +87,7 @@ p2pool interface:
 		--outgoing-conns CONNS
 		outgoing connections (default: 6)
 
-worker interface:
+**worker interface:**
 
 		-w PORT or ADDR:PORT, --worker-port PORT or ADDR:PORT
 		listen on PORT on interface with ADDR for RPC
@@ -104,7 +104,7 @@ worker interface:
 		set difficulty policy: D - default, A - adaptive, F -
 		force adaptive (ignore miner's request)
 
-bitcoind interface:
+**bitcoind interface:**
 
 		--bitcoind-config-path BITCOIND_CONFIG_PATH
 		custom configuration file path (when bitcoind -conf
@@ -124,3 +124,10 @@ bitcoind interface:
 		separated (only one being provided will cause the
 		username to default to being empty, and none will
 		cause P2Pool to read them from bitcoin.conf)
+		
+		If you found this code useful and it helped you get up and running, please consider a donation.
+		Thank you.
+		
+***Donations***
+
+		LTC:	LZFdCAGnxQr5JMSvqwV7AFwHKoPdL2RAdU
