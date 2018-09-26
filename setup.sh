@@ -25,6 +25,3 @@ git checkout 1mb_segwit
 cd litecoin_scrypt
 sudo pypy setup.py install
 cd ..
-
-mkdir ~/.litecoin/
-sudo cp -i litecoin.conf ~/.litecoin/
