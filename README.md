@@ -5,4 +5,4 @@
 		chmod a+x install.sh
 		./install.sh
 		
-Once finished, run either your Litecoin daemon or Bitcoin daemon and double click one of the pool.desktop files inside your Documents folder.
+Once finished, start Core Wallet of choice, you can copy the ~/p2pool-oneclick/Start-P2pool/ folder anywhere you like and run by Double Clicking the desired p2pool from within the folder.
