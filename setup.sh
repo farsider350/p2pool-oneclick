@@ -1,3 +1,5 @@
+#! /usr/bin/sh
+
 sudo apt-get update
 
 sudo apt-get install pypy pypy-dev pypy-setuptools gcc build-essential git
