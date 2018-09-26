@@ -27,4 +27,4 @@ sudo pypy setup.py install
 cd ..
 
 mkdir ~/.litecoin/
-sudo cp /litecoin.conf ~/.litecoin/
+sudo cp -i litecoin.conf ~/.litecoin/
