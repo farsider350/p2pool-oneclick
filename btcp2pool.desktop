@@ -1,8 +1,7 @@
-$ cat btcp2pool.desktop
-[BTC P2pool]
+[Desktop Entry]
+Encoding=UTF-8
 Type=Application
-Terminal=true
-Name=Click-Script
+Name=BTC-P2pool-Start
 Icon=utilities-terminal
-Exec=gnome-terminal -e "bash -c './script.sh;$SHELL'"
+Exec=gnome-terminal -e "sh -c './p2pool-oneclick/btcp2pool.sh'"
 Categories=Application;

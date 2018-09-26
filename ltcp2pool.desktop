@@ -1,8 +1,7 @@
-$ cat ltcp2pool.desktop
-[LTC P2pool]
+[Desktop Entry]
+Encoding=UTF-8
 Type=Application
-Terminal=true
-Name=Click-Script
+Name=LTC-P2pool-Start
 Icon=utilities-terminal
-Exec=gnome-terminal -e "bash -c '.~/p2pool-oneclick/ltcp2pool.sh;$SHELL'"
+Exec=gnome-terminal -e "sh -c './p2pool-oneclick/ltcp2pool.sh'"
 Categories=Application;
