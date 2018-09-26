@@ -1,1 +1,0 @@
-git clone https://github.com/farsider350/p2pool-oneclick.git ~/p2pool-oneclick

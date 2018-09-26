@@ -13,6 +13,8 @@
 		
 Once finished, start Core Wallet of choice, you can copy the ~/p2pool-oneclick/Start-P2pool/ folder anywhere you like and run by Double Clicking the desired p2pool from within the folder.
 
+		Forward ports 9326-9327 for LTC and 9332-9333 for BTC to access your node from outside your local network and to get better peer connections.
+
 **Running optional commands:**
 
 		cd p2pool-oneclick
