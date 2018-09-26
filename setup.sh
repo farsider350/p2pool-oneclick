@@ -26,6 +26,5 @@ cd litecoin_scrypt
 sudo pypy setup.py install
 cd ..
 
+mkdir ~/.litecoin/
 sudo cp /litecoin.conf ~/.litecoin/
-
-
