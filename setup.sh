@@ -19,9 +19,11 @@ sudo pypy setup.py install
 cd ..
 sudo rm -r Twisted-15.4.0*
 
+cd ~
 git clone https://github.com/jtoomim/p2pool.git
 cd p2pool
 git checkout 1mb_segwit
 cd litecoin_scrypt
 sudo pypy setup.py install
-cd ..
+cd ~
+cd p2pool-oneclick

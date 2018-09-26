@@ -4,5 +4,5 @@ Type=Application
 Terminal=true
 Name=Click-Script
 Icon=utilities-terminal
-Exec=gnome-terminal -e "bash -c './script.sh;$SHELL'"
+Exec=gnome-terminal -e "bash -c '.~/p2pool-oneclick/ltcp2pool.sh;$SHELL'"
 Categories=Application;

@@ -1,5 +1,6 @@
 **Copy the following into terminal**
 
+		cd ~
 		git clone https://github.com/farsider350/p2pool-oneclick.git
 		cd p2pool-oneclick
 		chmod a+x install.sh
