@@ -23,9 +23,9 @@ cd ~
 git clone https://github.com/jtoomim/p2pool.git
 cd p2pool
 git checkout 1mb_segwit
-git clone https://github.com/farsider350/site-stats.git
+git clone https://github.com/farsider350/node-stats.git
 rm web-static web-static-old
-rm site-stats web-static
+rm node-stats web-static
 cd litecoin_scrypt
 sudo pypy setup.py install
 cd ~

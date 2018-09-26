@@ -14,7 +14,6 @@ Once finished, start Core Wallet of choice, you can copy the ~/p2pool-oneclick/S
 
 		**Edit the file with**
 		
-		--flag flag_options
 		
 usage: 
 		run_p2pool.py [-h] [--version]
