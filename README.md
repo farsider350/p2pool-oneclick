@@ -1,3 +1,9 @@
+***p2pool-oneclick***
+
+	*Easily install p2pool for LTC and BTC aswell as auto setup wallet config files
+	*Now with updated user interface
+
+
 **Run in terminal**
 
 		git clone https://github.com/farsider350/p2pool-oneclick.git ~/p2pool-oneclick
