@@ -1,8 +1,9 @@
-**Copy the following into terminal**
+**Download the latest initial.sh from releases**
 
-		cd ~
-		git clone https://github.com/farsider350/p2pool-oneclick.git
-		cd p2pool-oneclick
-		chmod a+x install.sh
-		./install.sh
+		https://github.com/farsider350/p2pool-oneclick/releases
+
+**Then run in terminal using**
+
+		chmod a+x initial.sh
+		./initial.sh
 		
