@@ -8,3 +8,5 @@ chmod a+x litecoin.sh
 chmod a+x btcp2pool.sh
 chmod a+x bitcoin.sh
 ./bitcoin.sh
+
+echo "100% Complete"
