@@ -2,12 +2,15 @@
 
 	*Easily install p2pool for LTC and BTC aswell as auto setup wallet config files
 	*Now with updated user interface
+	*Merge mining conf file auto setup for Scrypt: Doge, Artiqox, Viacoin, Myriad and Sha256: Syscoin, Namecoin
+	*No need to have all merge coin daemons, just the ones you want to use.
 
 
 **Run in terminal**
 
 		git clone https://github.com/farsider350/p2pool-oneclick.git ~/p2pool-oneclick
 		cd ~/p2pool-oneclick
+		git checkout merge-mine
 		chmod a+x install.sh
 		./install.sh
 		
