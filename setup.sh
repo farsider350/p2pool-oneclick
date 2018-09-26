@@ -24,3 +24,10 @@ sudo rm -r Twisted-15.4.0*
 git clone https://github.com/jtoomim/p2pool.git
 cd p2pool
 git checkout 1mb_segwit
+cd litecoin_scrypt
+sudo pypy setup.py install
+cd ..
+
+sudo cp /litecoin.conf ~/.litecoin/
+
+
