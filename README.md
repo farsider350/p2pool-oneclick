@@ -17,6 +17,8 @@ Once finished, start Core Wallet of choice, you can copy the ~/p2pool-oneclick/S
 
 		cd p2pool-oneclick
 		nano btcp2pool.sh
+		or
+		nano ltcp2pool.sh
 
 		**Edit the file with**
 		
