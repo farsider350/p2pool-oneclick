@@ -3,7 +3,7 @@ Don't use. Unfinished.
 
 ***p2pool-oneclick***
 
-	*Easily install p2pool for LTC and BTC aswell as auto setup wallet config files
+	*Easily install p2pool for DGB Scrypt aswell as auto setup wallet config files
 	*Now with updated user interface
 
 
@@ -11,27 +11,26 @@ Don't use. Unfinished.
 
 		git clone https://github.com/farsider350/p2pool-oneclick.git ~/p2pool-oneclick
 		cd ~/p2pool-oneclick
+		git checkout dgb-scrypt-merged
 		chmod a+x install.sh
 		./install.sh
 		
-Once finished, start Core Wallet of choice, you can copy the ~/p2pool-oneclick/Start-P2pool/ folder anywhere you like and run by Double Clicking the desired p2pool from within the folder.
+Once finished, start Digibyte Core Wallet, you can copy the ~/p2pool-oneclick/Start-P2pool/ folder anywhere you like and run by Double Clicking DGB-p2pool.
 
-		Forward ports 9326-9327 for LTC and 9332-9333 for BTC to access your node from outside your local network and to get better peer connections.
+		Forward ports 5024-5055 to access your node from outside your local network and to get better peer connections.
 
 **Running optional commands:**
 
 		cd p2pool-oneclick
-		nano btcp2pool.sh
-		or
-		nano ltcp2pool.sh
-
+		nano dgbp2pool.sh
+		
 		**Edit the file with**
 		
 		
 **usage:**
 
 		run_p2pool.py [-h] [--version]
-		[--net {bitcoin,fastcoin,litecoin,terracoin}] [--testnet]
+		[--net {digibyte}] [--testnet]
 		[--debug] [-a ADDRESS] [--datadir DATADIR]
 		[--logfile LOGFILE] [--merged MERGED_URLS]
 		[--give-author DONATION_PERCENTAGE] [--iocp]
