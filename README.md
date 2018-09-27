@@ -1,3 +1,6 @@
+Don't use. Unfinished.
+
+
 ***p2pool-oneclick***
 
 	*Easily install p2pool for LTC and BTC aswell as auto setup wallet config files
