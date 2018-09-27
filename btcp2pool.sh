@@ -1,1 +1,0 @@
-pypy ~/p2pool/run_p2pool.py --give-author 0
