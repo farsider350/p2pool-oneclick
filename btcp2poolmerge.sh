@@ -1,0 +1,1 @@
+pypy ~/p2pool/run_p2pool.py --give-author 0 --merged http://namecoin:oneclickpass@127.0.0.1:15404 --merged http://syscoin:oneclickpass@127.0.0.1:23889
