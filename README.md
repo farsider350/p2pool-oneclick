@@ -16,7 +16,7 @@ Don't use. Unfinished.
 		chmod a+x install.sh
 		./install.sh
 		
-Once finished, start Digibyte Core Wallet, you can copy the ~/p2pool-oneclick/Start-P2pool/ folder anywhere you like and run by Double Clicking DGB-p2pool.
+Once finished, start Digibyte Core wallet and any merged wallets, you can copy the ~/p2pool-oneclick/Start-P2pool/ folder anywhere you like and run by Double Clicking DGB-p2pool.
 
 		Forward ports 5024-5055 to access your node from outside your local network and to get better peer connections.
 
