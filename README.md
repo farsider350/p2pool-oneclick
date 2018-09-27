@@ -1,3 +1,5 @@
+Merged mining, DGB and Dash support in other Branches: https://github.com/farsider350/p2pool-oneclick/branches
+
 ***p2pool-oneclick***
 
 	*Easily install p2pool for LTC and BTC aswell as auto setup wallet config files
