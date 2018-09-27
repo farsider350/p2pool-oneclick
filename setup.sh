@@ -20,8 +20,8 @@ cd ..
 sudo rm -r Twisted-15.4.0*
 
 cd ~
-git clone https://github.com/farsider350/p2pool-dgb-scrypt-350.git
-cd p2pool-dgb-scrypt-350
+git clone https://github.com/farsider350/p2pool-dgb-scrypt-350.git ~/p2pool-dgb-scrypt
+cd p2pool-dgb-scrypt
 git clone https://github.com/farsider350/node-stats.git
 mv web-static web-static-old
 mv node-stats web-static
