@@ -5,6 +5,7 @@ Don't use. Unfinished.
 
 	*Easily install p2pool for DGB Scrypt aswell as auto setup wallet config files
 	*Now with updated user interface
+	*Merged mining: Doge, Myriad, Viacoin, Artiqox, Argentum.
 
 
 **Run in terminal**
