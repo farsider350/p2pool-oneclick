@@ -3,6 +3,8 @@
 	*Easily install p2pool for DGB Scrypt aswell as auto setup wallet config files
 	*Now with updated user interface
 	*Merged mining: Doge, Myriad, Viacoin, Artiqox, Argentum.
+	*Choose between Ilsawa's Sharechain (25sec shares, approx 3 day till max pp reached, 30 block spread)
+	*or the Zen Sharechain (15sec shares, 1 day max pp, 80 block spread)
 
 
 **Run in terminal**
@@ -15,7 +17,7 @@
 		
 Once finished, start Digibyte Core wallet and any merged wallets, you can copy the ~/p2pool-oneclick/Start-P2pool/ folder anywhere you like and run by Double Clicking DGB-p2pool.
 
-		Forward ports 5024-5055 to access your node from outside your local network and to get better peer connections.
+		Forward ports 5024-5025 to access your node from outside your local network and to get better peer connections.
 
 **Running optional commands:**
 
