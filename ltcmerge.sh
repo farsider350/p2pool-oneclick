@@ -4,6 +4,7 @@ mkdir ~/.viacoin/
 mkdir ~/.artiqox/
 mkdir ~/.argentum/
 mkdir ~/.myriadcoin/
+mkdir ~/.pesetacoin/
 sudo cp -i litecoin.conf ~/.litecoin/
 sudo cp -i dogecoin.conf ~/.dogecoin/
 sudo cp -i viacoin.conf ~/.viacoin/
