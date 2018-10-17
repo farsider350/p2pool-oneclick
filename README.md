@@ -10,7 +10,7 @@
 
 		git clone https://github.com/farsider350/p2pool-oneclick.git ~/p2pool-oneclick
 		cd ~/p2pool-oneclick
-		git checkout merge-mine
+		git checkout ltc-zenchain
 		chmod a+x install.sh
 		./install.sh
 		

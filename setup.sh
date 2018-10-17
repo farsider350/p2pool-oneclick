@@ -26,6 +26,7 @@ git checkout 1mb_segwit
 git clone https://github.com/farsider350/node-stats.git
 mv web-static web-static-old
 mv node-stats web-static
+mv ~/p2pool-oneclick/litecoin.py ~/p2pool/p2pool/networks/litecoin.py
 cd litecoin_scrypt
 sudo pypy setup.py install
 cd ~
