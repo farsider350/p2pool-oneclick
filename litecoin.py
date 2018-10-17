@@ -11,9 +11,9 @@ PREFIX = '7207c1a53ef629b0'.decode('hex')
 P2P_PORT = 9326
 MIN_TARGET = 0
 MAX_TARGET = 2**256//2**20 - 1
-PERSIST = True
+PERSIST = False
 WORKER_PORT = 9327
-BOOTSTRAP_ADDRS = ''.split(' ')
+BOOTSTRAP_ADDRS = 'triplezen.tk'.split(' ')
 ANNOUNCE_CHANNEL = '#p2pool-ltc'
 VERSION_CHECK = lambda v: None if 100400 <= v else 'Litecoin version too old. Upgrade to 0.10.4 or newer!'
 VERSION_WARNING = lambda v: None
