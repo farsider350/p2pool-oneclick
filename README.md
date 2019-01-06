@@ -1,8 +1,7 @@
 ***p2pool-oneclick***
 
-	*Easily install p2pool for LTC and BTC aswell as auto setup wallet config files
-	*Now with updated user interface
-	*Merge mining conf file auto setup for Scrypt: Doge, Artiqox, Viacoin, Myriad and Sha256: Syscoin, Namecoin
+	*Easily install p2pool for Australia Cash aswell as auto setup wallet config files
+	*Merge mining conf file auto setup for Scrypt AUXPOW: Doge, Artiqox, Viacoin, Myriad and Pesetacoin
 	*No need to have all merge coin daemons, just the ones you want to use.
 
 
@@ -10,28 +9,28 @@
 
 		git clone https://github.com/farsider350/p2pool-oneclick.git ~/p2pool-oneclick
 		cd ~/p2pool-oneclick
-		git checkout ltc-zenchain
+		git checkout auscash
 		chmod a+x install.sh
 		./install.sh
 		
 Once finished, start Core Wallet of choice, you can copy the ~/p2pool-oneclick/Start-P2pool/ folder anywhere you like and run by Double Clicking the desired p2pool from within the folder.
 
-		Forward ports 9326-9327 for LTC and 9332-9333 for BTC to access your node from outside your local network and to get better peer connections.
+		Forward ports 2015-2016 to access your node from outside your local network and to get better peer connections.
 
 **Running optional commands:**
 
 		cd p2pool-oneclick
-		nano btcp2poolmerge.sh
+		nano ausp2poolmerge.sh
 		or
-		nano ltcp2poolmerge.sh
+		nano ausp2pool.sh
 
-		**Edit the file with**
+		**Edit the file with any of the following commands**
 		
 		
 **usage:**
 
 		run_p2pool.py [-h] [--version]
-		[--net {bitcoin,fastcoin,litecoin,terracoin}] [--testnet]
+		[--testnet]
 		[--debug] [-a ADDRESS] [--datadir DATADIR]
 		[--logfile LOGFILE] [--merged MERGED_URLS]
 		[--give-author DONATION_PERCENTAGE] [--iocp]
@@ -133,4 +132,5 @@ Once finished, start Core Wallet of choice, you can copy the ~/p2pool-oneclick/S
 		
 ***Donations***
 
+		AUS:	AMwaDNiabYKSY2ZPUqujAhyUxfUNx1jX2Y
 		LTC:	LZFdCAGnxQr5JMSvqwV7AFwHKoPdL2RAdU
