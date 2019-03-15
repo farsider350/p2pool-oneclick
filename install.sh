@@ -1,7 +1,7 @@
 chmod a+x setup.sh
 ./setup.sh
 
-chmod a+x dgbp2pool.sh
+chmod a+x dgbp2poolzen.sh
 chmod a+x digibyte.sh
 ./digibyte.sh
 
