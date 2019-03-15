@@ -11,5 +11,5 @@ sudo cp -i artiqox.conf ~/.artiqox/
 sudo cp -i argentum.conf ~/.argentum/
 sudo cp -i myriadcoin.conf ~/.myriadcoin/
 cd ~/p2pool-oneclick/Start-P2pool
-chmod a+x dgbp2pool.desktop
+chmod a+x dgbp2poolzen.desktop
 cd ..
