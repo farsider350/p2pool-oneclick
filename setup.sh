@@ -20,7 +20,7 @@ cd ..
 sudo rm -r Twisted-15.4.0*
 
 cd ~
-git clone https://github.com/farsider350/p2pool-auscash.git
+git clone https://github.com/farsider350/p2pool-auscash.git p2pool
 cd p2pool
 git clone https://github.com/farsider350/node-stats.git
 mv web-static web-static-old
