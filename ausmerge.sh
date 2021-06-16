@@ -1,12 +1,12 @@
 mkdir ~/.australiacash/
-mkdir ~/.dogecoin/
+mkdir ~/.dingocoin/
 mkdir ~/.viacoin/
 mkdir ~/.artiqox/
 mkdir ~/.argentum/
 mkdir ~/.myriadcoin/
 mkdir ~/.pesetacoin/
 sudo cp -i australiacash.conf ~/.australiacash/
-sudo cp -i dogecoin.conf ~/.dogecoin/
+sudo cp -i dingocoin.conf ~/.dingocoin/
 sudo cp -i viacoin.conf ~/.viacoin/
 sudo cp -i artiqox.conf ~/.artiqox/
 sudo cp -i argentum.conf ~/.argentum/
