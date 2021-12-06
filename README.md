@@ -16,7 +16,7 @@ Once you've done that, run bash and follow the rest of the steps below.
 
 		git clone https://github.com/farsider350/p2pool-oneclick.git ~/p2pool-oneclick
 		cd ~/p2pool-oneclick
-		git checkout credits
+		git checkout creditcoin
 		chmod a+x install.sh
 		./install.sh
 		
