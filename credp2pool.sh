@@ -1,0 +1,1 @@
+pypy ~/p2pool/run_p2pool.py --net credits

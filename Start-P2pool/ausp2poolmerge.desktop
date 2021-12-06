@@ -1,7 +1,7 @@
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
-Name=AUS-P2pool-Merge-Mining-Start
+Name=CRED-P2pool-Merge-Mining-Start
 Icon=utilities-terminal
-Exec=gnome-terminal -e "sh -c './p2pool-oneclick/ausp2poolmerge.sh'"
+Exec=gnome-terminal -e "sh -c './p2pool-oneclick/credp2poolmerge.sh'"
 Categories=Application;
